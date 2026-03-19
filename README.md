@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anika (Qiannan) Zhao
-### Quantitative Risk Analyst | Data Scientist
+### Quantitative Researcher| Quantitative Risk Analyst| Data Scientist
 
 - 🎓 **Education:** B.Eng. in Financial Engineering, minor in Artifical Intelligence (Unversity of Toronto) & M.S. in Enterprise Risk Management (Columbia University)
 - **Quant Finance:** Specialized in Systematic Factor Modelling, Risk Attribution (VaR/CVaR), and Convex Optimization
